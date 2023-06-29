@@ -1,4 +1,1 @@
-My first readme
-
-
-Altered for perfection
+“Starting to code today, so cool.”
